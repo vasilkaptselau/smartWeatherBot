@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "smarteatherot-20190408155626-authRole",
+            "UnauthRoleArn": "arn:aws:iam::950156003419:role/smarteatherot-20190408155626-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::950156003419:role/smarteatherot-20190408155626-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "smarteatherot-20190408155626-deployment",
+            "UnauthRoleName": "smarteatherot-20190408155626-unauthRole",
+            "StackName": "smarteatherot-20190408155626",
+            "StackId": "arn:aws:cloudformation:us-west-2:950156003419:stack/smarteatherot-20190408155626/8a2e9430-5a51-11e9-aea6-066fb3ad7706"
+        }
+    }
+}
